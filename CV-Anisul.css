@@ -1,0 +1,162 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+body{
+  background-color: #eee;
+  font-family: 'Roboto', sans-serif;
+  max-width: 1140px;
+}
+.container{
+  max-width: 800px;
+  background: #e7bfa6;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+
+<!--header start-->
+
+
+header{
+  background: ;
+}
+.profile-image{
+  width: 80px;
+  height: 100px;
+  border: 2px solid white;
+  border-radius: 40%;
+  float: left;
+}
+.profile-bio{
+  padding: 25px;
+  float: left;
+}
+h1,h2,h3,h4,h5,h6{
+  color: #763001;
+}
+.header-contact{
+  float: right;
+  padding-top: 25px;
+  padding-right: 5px;
+  padding-left: 20px;
+  padding-bottom: 25px;
+}
+.header-contact a{
+   color:#763001;
+   text-decoration: none;
+   font-weight: bold;
+}
+.header-contact a:hover{
+   text-decoration: underline;
+   color: #373d69;
+}
+
+
+<!--header end-->
+
+
+.div-clear{
+  clear: both;
+}
+hr{
+  border: 2px solid black;
+  width: 100%;
+  margin: 20px auto;
+  border-bottom: none;
+}
+
+/*---------------------
+ personal-section start
+ ---------------------*/
+#personal-section{
+  
+} 
+.content{
+
+}
+.left-div{
+  width: 30%;
+  float: left;
+}
+.right-div{
+  width: 70%;
+  float: left;
+}
+
+/*---------------------
+ personal-section end
+ ---------------------*/
+ 
+.common-hr{
+  border: 2px solid black;
+  width: 100%;
+  border-bottom: none;
+  margin: 20px auto;
+}
+.div-clear-2{
+  clear: both;
+}
+
+/*---------------------
+ education-section start
+ ---------------------*/
+.edu-template-left{
+  float: left;
+  width: 45%;
+  
+} 
+.edu-template-right{
+  float: right;
+  width: 45%;
+}
+ 
+/*---------------------
+ education-section end
+ ---------------------*/
+ 
+ 
+/*---------------------
+ Honors and Award-section start
+ ---------------------*/
+ ul li{
+   list-style-position:inside;
+ }
+ /*---------------------
+ Honors and Award-section end
+ ---------------------*/
+ 
+ 
+ 
+ 
+ /*---------------------
+  footer start
+ ---------------------*/
+ .footer{
+   background-color: #753709;
+   text-align: center;
+   padding: 10px;
+ }
+ .footer a{
+   text-decoration: none;
+   color: white;
+   margin: 10px;
+ }
+ .footer p{
+  margin-top: 20px;
+  color: white;
+  
+ }
+ 
+ 
+ 
+ /*---------------------
+  footer end
+ ---------------------*/
+
+
+
+
+
+
+
